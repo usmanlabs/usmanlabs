@@ -1,23 +1,32 @@
 # 👋 Hi, I'm Muhammad Usman Amir
 
-I’m a passionate **React Native developer** focused on building user-friendly, scalable mobile apps using **TypeScript** and **clean architecture**.  
-Currently diving deep into React Native, Expo, and modern state management to build real-world projects and sharpen my skills.
+I’m a **Full Stack Mobile App Developer** specializing in building scalable, high-performance mobile apps using **React Native (Expo)**.
 
-> “Learning by building, coding with purpose.”
+I help turn ideas into **production-ready applications** — whether it’s an MVP, a growing product, or an app that needs fixing and scaling. My focus is on writing clean, maintainable code and building systems that are reliable long-term.
+
+Alongside mobile development, I work on backend systems, APIs, cloud infrastructure, and modern integrations including **AI-powered features**.
+
+> “Building real-world apps with clean architecture and scalability in mind.”
 
 ---
 
 ## 🛠 Skills & Tools
 
-
-| Category         | Skills & Tools                                                |
-|------------------|---------------------------------------------------------------|
-| Languages        | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  |
-| Mobile & Frontend| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  |
-| Backend & DB     | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  |
-| Tools            | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| Category              | Skills & Tools |
+|----------------------|---------------|
+| Languages            | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| Mobile & Frontend    | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![Expo Router](https://img.shields.io/badge/Expo_Router-000000?style=for-the-badge) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge) |
+| Backend & APIs       | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge) ![REST API](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge) |
+| Databases & Services | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| Cloud & DevOps       | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| AI & Integrations    | ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge) ![AI Integrations](https://img.shields.io/badge/AI_Integrations-000000?style=for-the-badge) |
+| Payments             | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white) ![RevenueCat](https://img.shields.io/badge/RevenueCat-FF6F61?style=for-the-badge) |
+| State Management     | ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge) ![Modern React Patterns](https://img.shields.io/badge/Modern_React_Patterns-000000?style=for-the-badge) |
+| Tools & Workflow     | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
 ---
+
+
 
 ## 🚀 Projects
 
@@ -43,13 +52,7 @@ Currently diving deep into React Native, Expo, and modern state management to bu
 
 ---
 
-## 📚 Currently Learning
 
-- Advanced React Native concepts & performance optimizations  
-- Deepening TypeScript knowledge (types, interfaces, generics)  
-- Swift and native iOS module integration  
-
----
 
 ## 🔗 Connect with Me
 
