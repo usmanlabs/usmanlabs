@@ -74,10 +74,3 @@ I’m eager to collaborate, learn from experienced developers, and grow my skill
 
 ---
 
-## 📊 GitHub Stats
-
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usman-amir8&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-amir8&layout=compact&theme=radical)
-
----
-
