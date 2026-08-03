@@ -180,17 +180,3 @@ I'm eager to collaborate, learn from experienced developers, and grow through re
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,13,12&height=150&section=footer" width="100%"/>
 
 ---
-
-<details>
-<summary><strong>⚙️ Setup notes (click to expand)</strong></summary>
-
-<br/>
-
-1. **Everything above works out of the box** except the contribution snake.
-2. **Contribution snake** needs a one-time GitHub Actions setup:
-   - In your profile repo (`usmanlabs/usmanlabs`), add a workflow using [`Platane/snk`](https://github.com/Platane/snk) that generates the SVG on a schedule and pushes it to an `output` branch.
-   - Once it runs once, the snake at the top will animate automatically on every page load.
-3. Streak stats now points at `streak-stats.demolab.com` (the old `herokuapp.com` host is largely dead, which is why it wasn't loading). Activity graph occasionally cold-starts on its free hosting — refresh after a few seconds if it doesn't appear instantly.
-4. `tokyonight` was used throughout for a calmer, easy-on-the-eyes palette. Swap the `theme=` value on any stats URL for `dracula`, `default`, or `gruvbox` if you want to experiment.
-
-</details>
