@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=250&section=header&text=Muhammad%20Usman%20Amir&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Mobile%20App%20Developer%20%E2%80%A2%20React%20Native%20%2F%20Expo&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=250&section=header&text=Muhammad%20Usman%20Amir&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Mobile%20App%20Developer%20%E2%80%A2%20React%20Native%20%2F%20Expo&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/usmanlabs">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+production-ready+apps+with+React+Native+%28Expo%29;Clean+architecture+%7C+Scalable+systems+%7C+AI+integrations;From+MVP+to+App+Store+%E2%80%94+I+ship+the+whole+journey;Turning+ideas+into+reliable%2C+long-term+products&font=Fira+Code&center=true&width=800&height=55&color=7DCFFF&vCenter=true&size=23&pause=1200" alt="Typing SVG" />
@@ -177,6 +177,4 @@ I'm eager to collaborate, learn from experienced developers, and grow through re
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,13,12&height=150&section=footer" width="100%"/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,2,0&height=150&section=footer" width="100%"/>
