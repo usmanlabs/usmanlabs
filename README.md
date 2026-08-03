@@ -1,76 +1,196 @@
-# 👋 Hi, I'm Muhammad Usman Amir
+<div align="center">
 
-I’m a **Full Stack Mobile App Developer** specializing in building scalable, high-performance mobile apps using **React Native (Expo)**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=250&section=header&text=Muhammad%20Usman%20Amir&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Mobile%20App%20Developer%20%E2%80%A2%20React%20Native%20%2F%20Expo&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
 
-I help turn ideas into **production-ready applications** — whether it’s an MVP, a growing product, or an app that needs fixing and scaling. My focus is on writing clean, maintainable code and building systems that are reliable long-term.
+<a href="https://github.com/usmanlabs">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+production-ready+apps+with+React+Native+%28Expo%29;Clean+architecture+%7C+Scalable+systems+%7C+AI+integrations;From+MVP+to+App+Store+%E2%80%94+I+ship+the+whole+journey;Turning+ideas+into+reliable%2C+long-term+products&font=Fira+Code&center=true&width=800&height=55&color=7DCFFF&vCenter=true&size=23&pause=1200" alt="Typing SVG" />
+</a>
 
-Alongside mobile development, I work on backend systems, APIs, cloud infrastructure, and modern integrations including **AI-powered features**.
+<br/>
 
-> “Building real-world apps with clean architecture and scalability in mind.”
+<img src="https://komarev.com/ghpvc/?username=usmanlabs&label=Profile%20Views&color=7965C1&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-7965C1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collab-4C9F70?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work"/>
 
----
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation eating contributions"/>
+
+</div>
+
+<br/>
+
+> *"Building real-world apps with clean architecture and scalability in mind."*
+
+I turn ideas into **production-ready applications** — MVPs, growing products, or apps that need fixing and scaling. My focus: clean, maintainable code and systems that hold up long-term. Alongside mobile development, I work on backend systems, APIs, cloud infrastructure, and modern integrations including **AI-powered features**.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&section=header" width="60%"/>
+</div>
+
+## 🧠 Words I Build By
+
+<table width="100%">
+<tr><td>
+
+> **"Talk is cheap. Show me the code."**
+> — Linus Torvalds
+
+</td></tr>
+<tr><td>
+
+> **"Premature optimization is the root of all evil."**
+> — Donald Knuth
+
+</td></tr>
+<tr><td>
+
+> **"Make it work, make it right, make it fast."**
+> — Kent Beck
+
+</td></tr>
+<tr><td>
+
+> **"Any fool can write code a computer understands. Good programmers write code humans can understand."**
+> — Martin Fowler
+
+</td></tr>
+<tr><td>
+
+> **"Simplicity is prerequisite for reliability."**
+> — Edsger W. Dijkstra
+
+</td></tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&section=header" width="60%"/>
+</div>
 
 ## 🛠 Skills & Tools
 
-| Category              | Skills & Tools |
-|----------------------|---------------|
-| Languages            | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| Mobile & Frontend    | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![Expo Router](https://img.shields.io/badge/Expo_Router-000000?style=for-the-badge) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge) |
-| Backend & APIs       | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge) ![REST API](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge) |
-| Databases & Services | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| Cloud & DevOps       | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
-| AI & Integrations    | ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge) ![AI Integrations](https://img.shields.io/badge/AI_Integrations-000000?style=for-the-badge) |
-| Payments             | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white) ![RevenueCat](https://img.shields.io/badge/RevenueCat-FF6F61?style=for-the-badge) |
-| State Management     | ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge) ![Modern React Patterns](https://img.shields.io/badge/Modern_React_Patterns-000000?style=for-the-badge) |
-| Tools & Workflow     | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+<div align="center">
 
----
+<sub>Hover any icon for its name</sub>
 
+<br/><br/>
 
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp&theme=light" /><img width="30"/>
+<img src="https://skillicons.dev/icons?i=react,expo,redux&theme=light" /><img width="30"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
 
-## 🚀 Projects
+<br/><br/>
 
-### Medicine Reminder App  
-[GitHub Repo](https://github.com/usman-amir8/Medicine-Reminder)
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb&theme=light" /><img width="30"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github&theme=light" /><img width="30"/>
+<img src="https://skillicons.dev/icons?i=postman,figma,vscode&theme=light" />
 
+<br/><br/>
 
-- **Problem:** Missed doses and inconsistent medication routines put health and recovery at risk — yet, in busy daily life, remembering every pill at the right time can be surprisingly difficult.  
-- **Solution:** Turns medication into a perfectly timed habit with smart tracking, adaptive schedules, and real-time reminders — so every dose is always right on time.  
-- Built using **Expo**, **React Native**, and **TypeScript** for the frontend, with **Firebase** powering the backend and **Cloudinary** for image uploads.
-- Features smooth animations for a friendly user experience and reliable real-time notifications to keep users on track.
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-FF6F61?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge)
 
----
+</div>
 
-### Apartment Hub  
-[GitHub Repo](https://github.com/usman-amir8/Apartment-Hub) 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&section=header" width="60%"/>
+</div>
 
-- **Problem:** Apartment rental platforms need to securely manage multiple user roles, provide up-to-date listings, and support offline access in case of network issues.  
-- **Solution:** Implements secure authentication with user roles (Realtors vs. Regular users), role-based functionality, offline caching, and safe authorization — ensuring a reliable and secure experience.  
-- Built using **React Native**, **Expo Router**, and **TypeScript** for the frontend, with **Firebase & Firestore** as backend services.  
-- Features realtor-only CRUD operations, user browsing & filtering, apartment details with images, offline access, and secure input validation.
+## 📊 GitHub Stats & Activity
 
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=usmanlabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanlabs&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
----
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=usmanlabs&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanlabs&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%"/>
+</div>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=usmanlabs&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+</div>
 
-## 🔗 Connect with Me
-
-- [LinkedIn](http://linkedin.com/in/usman-amir-dev)  
-- 📧 [usmanamir426@gmail.com](mailto:usmanamir426@gmail.com)  
-
-I’m eager to collaborate, learn from experienced developers, and grow my skills through real projects and opportunities.
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&section=header" width="60%"/>
+</div>
 
 ## 💡 My Developer Philosophy
 
-- I believe maintainable code > clever code.  
-- I measure success by how effortlessly users can interact with what I build.  
-- X-Ray Vision for messy code — I see architecture patterns before the first bug appears.  
-- The best UI is the one users don’t have to think about.  
-- Great apps are not just coded — they're **designed**, **measured**, and **iterated**.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Maintainable+code+%3E+clever+code.+Always.&font=Fira+Code&center=true&width=650&height=40&color=7DCFFF&vCenter=true&size=18&pause=2500&repeat=false" alt="philosophy line 1"/>
+</div>
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🧩 Architecture first**
+I see the patterns in messy code before the first bug ever shows up — good structure is a debugging shortcut, not a luxury.
+
+**🎯 Users over ego**
+Success isn't clever code, it's how effortlessly someone can pick up what I built and never have to think about it.
+
+</td>
+<td width="50%" valign="top">
+
+**🔁 Design → Measure → Iterate**
+Great apps aren't shipped once — they're observed, refined, and shipped again. Every release is a hypothesis.
+
+**🧘 Invisible UI**
+The best interface is the one nobody notices, because it never got in the way of what they came to do.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`clean architecture` · `long-term reliability` · `scalable systems` · `craft over shortcuts`
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&section=header" width="60%"/>
+</div>
+
+## 🔗 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/usman-amir-dev)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanamir426@gmail.com)
+
+<br/><br/>
+
+I'm eager to collaborate, learn from experienced developers, and grow through real projects and opportunities.
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let%27s+build+something+great+together!&font=Fira+Code&center=true&width=500&height=35&color=7965C1&vCenter=true&size=16&pause=1500" alt="footer typing"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,13,12&height=150&section=footer" width="100%"/>
 
 ---
 
+<details>
+<summary><strong>⚙️ Setup notes (click to expand)</strong></summary>
+
+<br/>
+
+1. **Everything above works out of the box** except the contribution snake.
+2. **Contribution snake** needs a one-time GitHub Actions setup:
+   - In your profile repo (`usmanlabs/usmanlabs`), add a workflow using [`Platane/snk`](https://github.com/Platane/snk) that generates the SVG on a schedule and pushes it to an `output` branch.
+   - Once it runs once, the snake at the top will animate automatically on every page load.
+3. Streak stats now points at `streak-stats.demolab.com` (the old `herokuapp.com` host is largely dead, which is why it wasn't loading). Activity graph occasionally cold-starts on its free hosting — refresh after a few seconds if it doesn't appear instantly.
+4. `tokyonight` was used throughout for a calmer, easy-on-the-eyes palette. Swap the `theme=` value on any stats URL for `dracula`, `default`, or `gruvbox` if you want to experiment.
+
+</details>
